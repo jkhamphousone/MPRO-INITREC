@@ -7,7 +7,7 @@ authors:
 title: "MPRO-INITREC"
 version: 1.0.0
 date-released: 2024-07-06
-url: "https://github.com/K5Julien/MPRO-INITREC"
+url: "https://github.com/jkhamphousone/MPRO-INITREC"
 preferred-citation:
   type: unpublished
   authors:
@@ -17,4 +17,4 @@ preferred-citation:
   year: 2018
   note: INITREC - MPRO
   title: "Présentation Initiation à la Recherche - MPRO"
-  url: "https://github.com/K5Julien/MPRO-INITREC/blob/main/ENGLISH_Bicreteria_path_problem_minimizing_the_cost_and_minimizing_the_number_of_labels.pdf"
+  url: "https://github.com/jkhamphousone/MPRO-INITREC"
