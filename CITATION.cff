@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 authors:
-- family-names: "KHAMPHOUSONE"
+- family-names: "Khamphousone"
   given-names: "Julien"
   orcid: "https://orcid.org/0000-0003-4207-5572"
 title: "MPRO-INITREC"
@@ -11,9 +11,10 @@ url: "https://github.com/K5Julien/MPRO-INITREC"
 preferred-citation:
   type: unpublished
   authors:
-  - family-names: "KHAMPHOUSONE"
+  - family-names: "Khamphousone"
   given-names: "Julien"
   orcid: "https://orcid.org/0000-0003-4207-5572"
   year: 2018
   note: INITREC - MPRO
   title: "Présentation Initiation à la Recherche - MPRO"
+  url: "https://github.com/K5Julien/MPRO-INITREC/blob/main/ENGLISH_Bicreteria_path_problem_minimizing_the_cost_and_minimizing_the_number_of_labels.pdf"
